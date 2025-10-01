@@ -6,4 +6,4 @@ CS @ FIU | Building ML applications for computer vision and automation
 💼 Previously: Built automated video systems reaching 32M+ views  
 🛠️ Tech: Python, C++, TensorFlow, React Native
 
-📫 Reach me: the.michael.venous@gmail.com | [LinkedIn](https://www.linkedin.com/in/michael-venous-0a0347345/)
+📫 Reach me: the.michael.venous@gmail.com | [LinkedIn](https://www.linkedin.com/in/michael-venous/)
