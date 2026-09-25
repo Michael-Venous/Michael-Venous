@@ -2,7 +2,7 @@
 
 CS @ FIU | Building ML applications for computer vision and automation
 
- Currently working on: AI-powered dance training app  
+ Currently working on: Fumaris, a GPU accelerated smoke/fire addon for Blender (40+ sales). AI-powered dance training app  
  Previously: Built automated video systems reaching 32M+ views  
  Tech: Python, C++, TensorFlow, React Native
 
