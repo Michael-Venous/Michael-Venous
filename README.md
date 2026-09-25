@@ -1,6 +1,6 @@
 # Hi, I'm Michael 
 
-CS @ FIU | Building ML applications for computer vision and automation
+CS @ FIU | Building Blender Addons, computer vision apps, and automation
 
  Currently working on: Fumaris, a GPU accelerated smoke/fire addon for Blender (40+ sales). AI-powered dance training app  
  Previously: Built automated video systems reaching 32M+ views  
